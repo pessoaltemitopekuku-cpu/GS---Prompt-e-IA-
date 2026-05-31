@@ -10,7 +10,7 @@
 
 Este projeto foi desenvolvido com base no universo de **Deep Rock Galactic (DRG)**, utilizando elementos e a identidade visual do jogo para criar uma experiência imersiva de monitoramento de telemetria e suporte tático a missões de mineração em **Hoxxes IV**.
 
-O núcleo do ecossistema é a **DRG AI**: uma inteligência artificial corporativa, ranzinza e especializada no contexto do jogo, integrada com um sistema de **RAG (Retrieval-Augmented Generation)**. O seu principal objetivo é analisar dados de sensores (temperatura, energia, escudos), emitir relatórios operacionais críticos e auxiliar os mineradores respondendo a dúvidas sobre mecânicas, missões, biomas, criaturas, classes e recursos da corporação.
+O núcleo do ecossistema é a **DRG AI**: uma inteligência artificial corporativa, ranzinza e especializada no contexto do jogo. O seu principal objetivo é analisar dados de sensores (temperatura, energia, escudos), emitir relatórios operacionais críticos e auxiliar os mineradores respondendo a dúvidas sobre mecânicas, missões, biomas, criaturas, classes e recursos da corporação.
 
 <p align="center">
   <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/Funcoes.png" alt="Código IA" width="1000" style="max-width: 100%;">
