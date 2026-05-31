@@ -1,7 +1,7 @@
 # ⛏️ DRG AI – Sistema de Suporte Tático para Missões Espaciais
 
 <p align="center">
-  <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/DRG_Logo.webp" alt="DRG AI Logo" width="400" style="max-width: 100%;">
+  <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/DRG_Logo.webp" alt="DRG AI Logo" width="1000" style="max-width: 100%;">
 </p>
 
 ---
@@ -13,7 +13,7 @@ Este projeto foi desenvolvido com base no universo de **Deep Rock Galactic (DRG)
 O núcleo do ecossistema é a **DRG AI**: uma inteligência artificial corporativa, ranzinza e especializada no contexto do jogo, integrada com um sistema de **RAG (Retrieval-Augmented Generation)**. O seu principal objetivo é analisar dados de sensores (temperatura, energia, escudos), emitir relatórios operacionais críticos e auxiliar os mineradores respondendo a dúvidas sobre mecânicas, missões, biomas, criaturas, classes e recursos da corporação.
 
 <p align="center">
-  <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/Funcoes.png" alt="Código IA" width="400" style="max-width: 100%;">
+  <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/Funcoes.png" alt="Código IA" width="1000" style="max-width: 100%;">
 </p>
 
 ---
@@ -26,13 +26,13 @@ Inspirada nos computadores de bordo de ficção científica e nos sistemas de mo
 * **Personalidade Corporativa:** Respostas curtas, frias, diretas e focadas na eficiência do trabalho e na sobrevivência da equipa.
 
 <p align="center">
-  <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/DRG_AI.png" alt="Código IA" width="400" style="max-width: 100%;">
+  <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/DRG_AI.png" alt="Código IA" width="1000" style="max-width: 100%;">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/Perguntas_DRG_AI.png" alt="Código IA" width="400" style="max-width: 100%;">
+  <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/Perguntas_DRG_AI.png" alt="Código IA" width="1000" style="max-width: 100%;">
 </p>
 
 ---
