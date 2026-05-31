@@ -23,7 +23,7 @@ O núcleo do ecossistema é a **DRG AI**: uma inteligência artificial corporati
 Inspirada nos computadores de bordo de ficção científica e nos sistemas de monitoramento de colónias espaciais, a DRG AI possui as seguintes diretrizes:
 
 * **Suporte de Campo:** Explica mecânicas de jogo, fraquezas de criaturas nativas e composições de biomas hostis.
-* **Personalidade Corporativa:** Respostas curtas, frias, diretas e focadas na eficiência do trabalho e na sobrevivência da equipa.
+* **Transcricação de voz:** Equipada com transcrição de voz a IA gera campos de áudio para facilitar a comunicação.
 
 <p align="center">
   <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/DRG_AI.png" alt="Código IA" width="1000" style="max-width: 100%;">
@@ -44,7 +44,7 @@ O projeto possui suporte nativo para geração automática de voz a partir das r
 Os textos gerados pelo modelo Llama 3.2 são processados, limpos de caracteres de formatação (Markdown/Asteriscos) e convertidos em transmissões de rádio realistas. Isto emula o canal de comunicação áudio original utilizado pelo *Mission Control* durante as partidas de Deep Rock Galactic.
 
 <p align="center">
-  <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/Play_Audio.png" alt="Código IA" width="400" style="max-width: 100%;">
+  <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/Play_Audio.png" alt="Código IA" width="1000" style="max-width: 100%;">
 </p>
 
 ---
@@ -56,8 +56,7 @@ Para garantir o funcionamento correto do ecossistema e evitar erros de conexão 
 1. **Instalação de Dependências:** Execute a primeira célula para instalar pacotes vitais (`pypdf`, `edge-tts`, `ollama` e a dependência de descompactação do sistema `zstd`).
 2. **Inicialização do Servidor:** Execute a célula de ativação do Ollama. O script irá encerrar portas travadas e subir o servidor em background via Python `subprocess`.
 3. **Carga do Modelo:** Aguarde o download de 100% do modelo local `llama3.2:1b`.
-4. **Extração do RAG:** Execute a célula do conversor de PDF. Os ficheiros serão baixados diretamente do repositório Git e limpos via Regex.
-5. **Painel de Interação:** Utilize a célula `"Pergunte ao DRG AI"` para realizar perguntas dinâmicas baseadas nos documentos fornecidos.
+4. **Painel de Interação:** Utilize a célula `"Pergunte ao DRG AI"` para realizar perguntas dinâmicas baseadas nos textos fornecidos.
 
 ---
 
@@ -67,7 +66,6 @@ O projeto foi desenhado para rodar inteiramente na nuvem através do Google Cola
 
 * **Linguagem:** Python 3.12+
 * **LLM Local:** Ollama (Modelo Llama 3.2 1B)
-* **Extração de Documentos:** PyPDF (PdfReader)
 * **Voz Artificial:** Edge-TTS (`pt-BR-AntonioNeural`)
 * **Processamento de Contexto:** Expressões Regulares (`re`)
 
@@ -77,14 +75,12 @@ O projeto foi desenhado para rodar inteiramente na nuvem através do Google Cola
 
 Utilize os links oficiais listados abaixo para aceder à infraestrutura de código, assistir à demonstração e ler os manuais utilizados pela inteligência artificial:
 
-* **Notebook do Projeto (Google Colab):** [Insere o Link do teu Notebook aqui]
+* **Notebook do Projeto (Google Colab):** https://colab.research.google.com/drive/1WutWC0zhlUYVbvDxdAuUmyq_wrWuhHz1?usp=sharing
 * **Vídeo de Demonstração (YouTube):** [Insere o Link do teu Vídeo de 3 minutos aqui]
-* **Base de Dados RAG - Manual do Jogo (PDF):** [https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/Deep%20Rock%20Galactic.pdf](https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/Deep%20Rock%20Galactic.pdf)
-* **Base de Dados RAG - Diretrizes da Missão (PDF):** [https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/Miss%C3%A3o.pdf](https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/Miss%C3%A3o.pdf)
 
 ---
 
 ## 👥 Desenvolvedores / Integrantes
 
-* **Nome do Aluno 1** - RMXXXXX - Turma XX
-* **Nome do Aluno 2** - RMXXXXX - Turma XX
+* **Temitope Kuku da Silva Ogunbanjo** - RM 573772 - Turma 1CCPO
+* **Gabrieli de Lima Pettena de Oliveira** - RM569799 - Tura 1CPPO
