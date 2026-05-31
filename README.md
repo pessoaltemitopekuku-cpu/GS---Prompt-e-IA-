@@ -1,7 +1,7 @@
 # ⛏️ DRG AI – Sistema de Suporte Tático para Missões Espaciais
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/main/Deep%20Rock%20Galactic.pdf" alt="DRG AI Logo" width="400" style="max-width: 100%;">
+  <img src="https://github.com/pessoaltemitopekuku-cpu/GS---Prompt-e-IA-/blob/main/DRG_Logo.webp" alt="DRG AI Logo" width="400" style="max-width: 100%;">
 </p>
 
 ---
