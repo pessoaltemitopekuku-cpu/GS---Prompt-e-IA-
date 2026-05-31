@@ -76,7 +76,7 @@ O projeto foi desenhado para rodar inteiramente na nuvem através do Google Cola
 Utilize os links oficiais listados abaixo para aceder à infraestrutura de código, assistir à demonstração e ler os manuais utilizados pela inteligência artificial:
 
 * **Notebook do Projeto (Google Colab):** https://colab.research.google.com/drive/1WutWC0zhlUYVbvDxdAuUmyq_wrWuhHz1?usp=sharing
-* **Vídeo de Demonstração (YouTube):** [Insere o Link do teu Vídeo de 3 minutos aqui]
+* **Vídeo de Demonstração (YouTube):** https://youtu.be/uG2rUrzPEkU
 
 ---
 
